@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402836828685",
+    "firebase_url": "https://tunisiao2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tunisiao2",
+    "storage_bucket": "tunisiao2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402836828685:android:a1e368ad2854c9d5011b44",
+        "android_client_info": {
+          "package_name": "com.aaronhaddad.concentrators.tunisie_concentrators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402836828685-9n9h586c4cvokqb9d4tbg3mqgtaje3d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGmJPebQav_bPcgVAqzg89BHfW7dxruI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402836828685-9n9h586c4cvokqb9d4tbg3mqgtaje3d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
