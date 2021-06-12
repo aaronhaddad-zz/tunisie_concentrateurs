@@ -1,6 +1,6 @@
 # Tunisie Concentrateurs
 
-An app that locates Oxygen concentrators acorss Tunisia
+An app that locates Oxygen concentrators across Tunisia
 
 ## Getting Started
 
